@@ -9,6 +9,10 @@ target/
 .idea/jarRepositories.xml
 .idea/compiler.xml
 .idea/libraries/
+.idea/gradle.xml
+.idea/misc.xml
+.idea/.name
+.idea/
 *.iws
 *.iml
 *.ipr
@@ -37,3 +41,6 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+# Gradle
+.gradle/
